@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="monthlyPayResult" type="id" />
+    <item name="interestBox" type="id" />
+    <item name="interestView" type="id" />
+    <item name="monthlyPayButton" type="id" />
+    <item name="amortBox" type="id" />
+    <item name="amortView" type="id" />
+    <item name="principleBox" type="id" />
+    <item name="principleView" type="id" />
+</resources>
